@@ -12,11 +12,6 @@
    z-index: 1;
 }
 
-body
-{
-   background-color: rgb(183, 203, 245);
-}
-
 .carrosel_espaco
 {
    margin-top: 10%;
@@ -40,62 +35,3 @@ h2{
    font-size: 3em;
 }
 
-.corMatheus
-{
-   background-color:rgb(175, 226, 255);
-   
-}
-
-.imagemmenor
-{
-   width: 99.8%;
-   box-shadow: 10px 10px 10px grey;
-}
-
-.imagemmenor2
-{
-   width: 99.8%;
-   height: 90%;
-   margin-bottom: 2%;
-   border-radius: 3em;
-   box-shadow: 10px 10px 10px grey;
-}
-
-.icone
-{
-   width: 10%;
-}
-
-.justify
-{
-   text-align: justify;
-}
-
-.card
-{
-   box-shadow: 15px 15px 15px grey;
-}
-
-.text-center
-{
-   margin: 2%;
-}
-
-.container
-{
-   text-align: center;
-   margin: 5%;
-}
-
-.contorno
-{
-   background-color: aliceblue;
-   padding: 0 3% 3% 3% ;
-   border-radius: 3em;
-   box-shadow: 15px 15px 15px grey;
-}
-
-.h1
-{
-   font-family: "Fantasy", Times, serif;
-}
