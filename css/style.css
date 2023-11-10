@@ -94,3 +94,8 @@ h2{
    border-radius: 3em;
    box-shadow: 15px 15px 15px grey;
 }
+
+.h1
+{
+   font-family: "Fantasy", Times, serif;
+}
