@@ -1,0 +1,7 @@
+#accordion {
+    display: flex;
+    align-items: center;
+}
+#accordion section {
+    width: 50%;
+}
